@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var baseUrl = 'http://192.168.1.8:3001/';","map":{"version":3,"sources":["F:/Full Stack Web Development with React - Coursera/ReactNative/confusion/shared/baseUrl.js"],"names":["baseUrl"],"mappings":"AAAA,OAAO,IAAMA,OAAO,GAAC,0BAAd","sourcesContent":["export const baseUrl='http://192.168.1.8:3001/';"]},"metadata":{},"sourceType":"module"}
